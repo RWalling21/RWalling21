@@ -4,4 +4,4 @@
 
 # I love, love, love to read!!! Here's what I've been reading :heart::books:
 
-<!-- <em>{{bookTitle}}</em> by {{author}}. {{raiting}} -->
+<em>{{bookTitle}}</em> by {{author}}. {{raiting}}
