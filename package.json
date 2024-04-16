@@ -1,0 +1,22 @@
+{
+  "name": "rwalling21",
+  "version": "1.0.0",
+  "description": "ReadMe file for my Github profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RWalling21/RWalling21.git"
+  },
+  "author": "Robert Walling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RWalling21/RWalling21/issues"
+  },
+  "homepage": "https://github.com/RWalling21/RWalling21#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
